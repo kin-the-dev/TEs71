@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thenailbar.co.za	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1620076786|X4sH1UEQ_ATN
+www.thenailbar.co.za	TRUE	/	FALSE	1999999999	TS016805f1	01f0e931319d564e7d9456510f02312617ca2627b14f4e1c51f4804c16a5ff8e9455417d025a8e6a633bf2f560aa7ab864fcea923c
+.wix.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1620076786|X4sH1UEQ_ATN
+.wix.com	TRUE	/	FALSE	1999999999	TS01de44c0	01f0e931319d564e7d9456510f02312617ca2627b14f4e1c51f4804c16a5ff8e9455417d025a8e6a633bf2f560aa7ab864fcea923c
+www.thenailbar.co.za	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+www.thenailbar.co.za	TRUE	/	FALSE	1999999999	TS01e85bed	01f0e931319d564e7d9456510f02312617ca2627b14f4e1c51f4804c16a5ff8e9455417d025a8e6a633bf2f560aa7ab864fcea923c
+www.thenailbar.co.za	TRUE	/	FALSE	1999999999	SameSite	none
+
